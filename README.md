@@ -2,14 +2,14 @@
 
 A passionate Mobile Developer from Pakistan 💚
 
-- 🔭 I'm currently working on a Final year project using **Flutter**
-- 🌱 I'm learning **Android Jetpack Compose**
+- 🔭 I'm currently working as Software Engnieer-I **Android**
+- 🌱 I'm learning **Android Jetpack Compose and multiplatform**
 - 👯 I'm looking to collaborate on **Flutter and Android projects**
-- 💬 Ask me about **Flutter, Android, React Native, Node.js**
+- 💬 Ask me about **Flutter, Android, Node.js**
 - 📫 Reach me at: **qazimaazsajjad1@gmail.com**
 
 ## Connect with me:
-- [LinkedIn](https://linkedin.com/in/qazi-maaz)
+- [LinkedIn](https://www.linkedin.com/in/maaz-sajjad-75a70b219/)
 
 ## Skills:
 - Mobile: Flutter, Android (Java/Kotlin), React Native
@@ -22,7 +22,6 @@ A passionate Mobile Developer from Pakistan 💚
 - Kotlin
 - Java
 - Dart
-- React Native
 - Node.js
 - MongoDB
 - Firebase
